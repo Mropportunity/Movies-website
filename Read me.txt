@@ -1,0 +1,7 @@
+///////////  READ ME 
+
+1.) install Python on machine (if not already installed 
+1.) Unzip "Cue's Favorite Movies"
+2.) Double click "entertainment_center.py" 
+
+
